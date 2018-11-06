@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Harwell Software Community</title>
+    <link>https://harwellsoftwarecommunity.github.io/tags/workshop/</link>
+    <description>Recent content in Workshop on Harwell Software Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://harwellsoftwarecommunity.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git workshop</title>
+      <link>https://harwellsoftwarecommunity.github.io/event/2018-10-11_git_workshop/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://harwellsoftwarecommunity.github.io/event/2018-10-11_git_workshop/</guid>
+      <description>When: 13th November 2018 12:00-13:00
+Where: CR16/17, R80 (TS2), RAL
+Dan Nixon gives an introductory tutorial to the Git source control management software and its use in a collaborative software project.
+The session will be a short overview talk followed by a tutorial, taking part in the tutorial is optional and those wishing to do so should bring their own laptops with Git already installed.
+If you plan to attend, please sign up here.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Docker workshop</title>
+      <link>https://harwellsoftwarecommunity.github.io/event/2018-07-19_docker_workshop/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://harwellsoftwarecommunity.github.io/event/2018-07-19_docker_workshop/</guid>
+      <description>When: 19th July 2018 13:00-14:00
+Where: CR03, R61, RAL
+Matt Pryor gives an overview of containers, why we may want to make use of them and a brief introduction into Docker.</description>
+    </item>
+    
+  </channel>
+</rss>

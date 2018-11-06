@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Harwell Software Community</title>
+    <link>https://harwellsoftwarecommunity.github.io/event/</link>
+    <description>Recent content in Events on Harwell Software Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://harwellsoftwarecommunity.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git workshop</title>
+      <link>https://harwellsoftwarecommunity.github.io/event/2018-10-11_git_workshop/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://harwellsoftwarecommunity.github.io/event/2018-10-11_git_workshop/</guid>
+      <description>When: 13th November 2018 12:00-13:00
+Where: CR16/17, R80 (TS2), RAL
+Dan Nixon gives an introductory tutorial to the Git source control management software and its use in a collaborative software project.
+The session will be a short overview talk followed by a tutorial, taking part in the tutorial is optional and those wishing to do so should bring their own laptops with Git already installed.
+If you plan to attend, please sign up here.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Docker workshop</title>
+      <link>https://harwellsoftwarecommunity.github.io/event/2018-07-19_docker_workshop/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://harwellsoftwarecommunity.github.io/event/2018-07-19_docker_workshop/</guid>
+      <description>When: 19th July 2018 13:00-14:00
+Where: CR03, R61, RAL
+Matt Pryor gives an overview of containers, why we may want to make use of them and a brief introduction into Docker.</description>
+    </item>
+    
+    <item>
+      <title>Satellite Applications Catapult special</title>
+      <link>https://harwellsoftwarecommunity.github.io/event/2018-05-14_catapult_special/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://harwellsoftwarecommunity.github.io/event/2018-05-14_catapult_special/</guid>
+      <description>When: 14th May 2018
+Where: Videowall Room, Satellite Applications Catapult
+Outline:
+ Trev Newell - Project Hepheastus (using satellite imagery to monitor the environmental impact of open cast mining in Chile) Keegan Neave - Project Eyes on the Seas (monitoring fishing around the world using satellite derived Automatic Identification System and supporting datasets) VR demo  </description>
+    </item>
+    
+    <item>
+      <title>Lightning talks</title>
+      <link>https://harwellsoftwarecommunity.github.io/event/2018-03-26_lightning_talks/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://harwellsoftwarecommunity.github.io/event/2018-03-26_lightning_talks/</guid>
+      <description>When: 26th March 2018
+Where: R18 Visitors Centre, RAL
+Outline:
+ Introduction Martyn Gigg - Jenkins Austen Rose - EPICS  </description>
+    </item>
+    
+    <item>
+      <title>Kickoff Meeting</title>
+      <link>https://harwellsoftwarecommunity.github.io/event/2018-02-12_kickoff_meeting/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://harwellsoftwarecommunity.github.io/event/2018-02-12_kickoff_meeting/</guid>
+      <description>When: 12th February 2018 13:00-14:00
+Where: CR16&amp;amp;17, R80, RAL
+Outline:
+ Hannah Griffin - Facilities Business Applications Owen Arnold - Building software for future science Philip Kershaw - Software at CEDA  </description>
+    </item>
+    
+  </channel>
+</rss>

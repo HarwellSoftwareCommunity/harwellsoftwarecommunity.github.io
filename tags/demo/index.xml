@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Harwell Software Community</title>
+    <link>https://harwellsoftwarecommunity.github.io/tags/demo/</link>
+    <description>Recent content in Demo on Harwell Software Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://harwellsoftwarecommunity.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Satellite Applications Catapult special</title>
+      <link>https://harwellsoftwarecommunity.github.io/event/2018-05-14_catapult_special/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://harwellsoftwarecommunity.github.io/event/2018-05-14_catapult_special/</guid>
+      <description>When: 14th May 2018
+Where: Videowall Room, Satellite Applications Catapult
+Outline:
+ Trev Newell - Project Hepheastus (using satellite imagery to monitor the environmental impact of open cast mining in Chile) Keegan Neave - Project Eyes on the Seas (monitoring fishing around the world using satellite derived Automatic Identification System and supporting datasets) VR demo  </description>
+    </item>
+    
+  </channel>
+</rss>
